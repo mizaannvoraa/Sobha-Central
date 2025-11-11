@@ -24,6 +24,7 @@ const Mobile_Slider = [
   { src: "/assets/MobBanner4.webp", alt: 'slide8' },
 ];
 
+
 export default function Nav_Slider() {
   const prevRef = useRef(null);
   const nextRef = useRef(null);
