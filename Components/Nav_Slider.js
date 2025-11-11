@@ -11,17 +11,17 @@ import Navbar from "./Navbar";
 import { IoIosArrowForward, IoIosArrowBack } from "react-icons/io";
 
 const Desktop_Slider = [
-  { src: "/assets/WebBan4.webp", alt: 'slide1' },
-  { src: "/assets/WebBan2.webp", alt: 'slide2' },
-  { src: "/assets/WebBan3.webp", alt: 'slide3' },
-  { src: "/assets/WebBan1.webp", alt: 'slide4' },
+  { src: "/assets/WebBanner4.webp", alt: 'slide1' },
+  { src: "/assets/WebBanner2.webp", alt: 'slide2' },
+  { src: "/assets/WebBanner3.webp", alt: 'slide3' },
+  { src: "/assets/WebBanner1.webp", alt: 'slide4' },
 ];
 
 const Mobile_Slider = [
-  { src: "/assets/MobBan1.webp", alt: 'slide5' },
-  { src: "/assets/MobBan2.webp", alt: 'slide6' },
-  { src: "/assets/MobBan3.webp", alt: 'slide7' },
-  { src: "/assets/MobBan4.webp", alt: 'slide8' },
+  { src: "/assets/MobBanner1.webp", alt: 'slide5' },
+  { src: "/assets/MobBanner2.webp", alt: 'slide6' },
+  { src: "/assets/MobBanner3.webp", alt: 'slide7' },
+  { src: "/assets/MobBanner4.webp", alt: 'slide8' },
 ];
 
 export default function Nav_Slider() {
